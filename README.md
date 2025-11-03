@@ -23,7 +23,7 @@ GPS-Tracking-Repository/
 ├── Running_Routes/          # 3 items
 ├── Cycling_Routes/          # 2 items
 ├── Metadata/                # templates and file-level metadata
-└── Screenshots/             # workflow and structure images
+└── Screenshots/             # workflow and budget images
 ```
 
 ## Ingestion
