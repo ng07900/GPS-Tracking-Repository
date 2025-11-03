@@ -1,0 +1,17 @@
+{
+  "activity_id": "ride-002",
+  "points": [
+    {
+      "lat": 33.222,
+      "lon": -97.123,
+      "elev_m": 205,
+      "timestamp_utc": "2025-10-21T09:45:00Z"
+    },
+    {
+      "lat": 33.223,
+      "lon": -97.122,
+      "elev_m": 206,
+      "timestamp_utc": "2025-10-21T09:45:25Z"
+    }
+  ]
+}
